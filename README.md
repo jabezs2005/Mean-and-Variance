@@ -1,5 +1,5 @@
 ## NAME:JABEZ .S
-## REGISTER NUMBER:212230400
+## REGISTER NUMBER:21223040070
 
 #  Mean and variance of a discrete  distribution
 
